@@ -6,7 +6,7 @@ A modern and responsive **Memory Card Matching Game** built with **React**. Test
 
 ## 🚀 Live Demo
 
-**Vercel:** https://memory-card-game-88oc0cl0a-jaswanttyagi66-3224s-projects.vercel.app/
+**Vercel:** https://memory-card-game-ruddy-iota.vercel.app/
 
 ---
 
